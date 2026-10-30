@@ -13,15 +13,10 @@ and includes the rank-one matrix pencil, the degree-preserving congruence for th
 ## Files
 
 - **`Operator_Fejer_Riesz_Example_q1.nb`** — Mathematica notebook with annotated computations.
-- **`Operator_Fejer_Riesz_Example_q1.wl`** — Wolfram Language source containing the same computations.
 
 ## Usage
 
 Open the `.nb` file in **Wolfram Mathematica** and evaluate the cells in order. Alternatively, evaluate the `.wl` file in a Wolfram Language session, for example with:
-
-```wolfram
-Get["Operator_Fejer_Riesz_Example_q1.wl"]
-```
 
 The code uses exact arithmetic and displays the computed polynomial and matrix expressions. It is intended to accompany the proofs in the manuscript, not replace them.
 
