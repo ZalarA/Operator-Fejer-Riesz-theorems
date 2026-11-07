@@ -36,7 +36,7 @@ The notebook includes the rank-one matrix pencil, the degree-preserving congruen
 
 ### Read the supplementary examples
 
-Open [Explicit computations of the additive constants.pdf](https://github.com/ZalarA/Operator-Fejer-Riesz-theorems/blob/main/Explicit%20computations%20of%20the%20additive%20constants.pdf). Appendix B numbering is retained. Citations to numbered manuscript results refer to the accompanying manuscript; the supplement's claims and equations are numbered locally.
+Open [Explicit computations of the additive constants.pdf](https://github.com/ZalarA/Operator-Fejer-Riesz-theorems/blob/main/Explicit%20computations%20of%20the%20additive%20constants.pdf). Citations to numbered manuscript results refer to the accompanying manuscript; the supplement's claims and equations are numbered locally.
 
 ### Run the Mathematica computations
 
